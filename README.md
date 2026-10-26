@@ -28,3 +28,6 @@ Created using Figma with a professional colour palette of off-white, charcoal, a
 - Auto Layout
 - Reusable UI components
 - Responsive design principles
+
+FIGMA DESIGN
+https://www.figma.com/design/t1c58KXd5XTHkWdYQO91Z2/Replab?node-id=15-582&t=NzbmiQb8NKTRL7Xg-1
